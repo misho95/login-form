@@ -79,4 +79,7 @@ body {
 
 .male-btn {
     background-color: #95eb75;
+    width: 43px;
+    padding: 10px;
+    border-radius: 50%;
 }
